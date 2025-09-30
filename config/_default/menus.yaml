@@ -1,0 +1,40 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 779105a4-d274-17e3-5b86-4353bc3f0920
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d4e2422e-0825-bcc6-2080-c7bd3a8f77b1
+  name: Calendar and Materials
+  pageRef: /pages/calendar-and-materials
+  weight: 20
+- identifier: 30000a7f-1e20-f965-c78e-d9c4a3969089
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 64c2dd5b-a3d2-7f55-d41e-eadf3afeb8f6
+  name: Motivation for Developing the Course
+  pageRef: /pages/instructor-insights/motivation-for-developing-the-course
+  parent: 30000a7f-1e20-f965-c78e-d9c4a3969089
+  weight: 40
+- identifier: ec31d617-ca70-d656-be8c-4a199cf63ed1
+  name: Cultivating a Biophysics Community
+  pageRef: /pages/instructor-insights/cultivating-a-biophysics-community
+  parent: 30000a7f-1e20-f965-c78e-d9c4a3969089
+  weight: 50
+- identifier: fc60ec63-00a3-27d9-cb06-1871452b006b
+  name: "Teaching the \u201CHow-To\u201D of Scholarship Outside of the Lab"
+  pageRef: /pages/instructor-insights/teaching-the-201chow-to201d-of-scholarship-outside-of-the-lab
+  parent: 30000a7f-1e20-f965-c78e-d9c4a3969089
+  weight: 60
+- identifier: 0ebe2f2e-3ab3-7215-3517-508b257c5716
+  name: Supporting Students Writing Research Proposals
+  pageRef: /pages/instructor-insights/supporting-students-writing-research-proposals
+  parent: 30000a7f-1e20-f965-c78e-d9c4a3969089
+  weight: 70
+- identifier: 3798f125-6e2e-a61a-c8a9-393ec351a91f
+  name: Advice for Other Educators
+  pageRef: /pages/instructor-insights/advice-for-other-educators
+  parent: 30000a7f-1e20-f965-c78e-d9c4a3969089
+  weight: 80
