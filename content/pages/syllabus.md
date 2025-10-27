@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, assignments, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +28,7 @@ Assignments
 
 Reading questions on the weekly assigned paper are due at 9 AM before the corresponding discussion. Reading questions are answered via the course website, and should require only a few sentences each.
 
-In addition, there will be a two-page research proposal due that will be followed by an in-class critique with your peers. While the research proposal will be modeled on the [National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) proposal, other fellowship programs are also acceptable.
+In addition, there will be a two-page research proposal due that will be followed by an in-class critique with your peers. While the research proposal will be modeled on the {{% resource_link "c7d79e37-b5fe-4968-9f7c-1172af15bdd6" "National Science Foundation Graduate Research Fellowship Program" %}} proposal, other fellowship programs are also acceptable.
 
 Grading
 -------
