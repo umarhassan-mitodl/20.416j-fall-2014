@@ -3,8 +3,6 @@ content_type: page
 description: This section provides insights and information about the course from
   the instructors.
 draft: false
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -52,7 +50,7 @@ None
 
 ### Requirements Satisfied
 
-[MIT Biophysics Certificate Program requirement](http://biophysics.mit.edu/MIT_Biophysics/Certificate_Program.html)
+{{% resource_link "2b2f2ddf-01ff-4d42-adfa-2d78b326f8a5" "MIT Biophysics Certificate Program requirement" %}}
 
 ### Offered
 
